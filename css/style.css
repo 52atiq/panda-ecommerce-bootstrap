@@ -1,0 +1,25 @@
+.panda-bg-info {
+    background-color: #fceae8;
+}
+.slider-img img{
+    width: 40px;
+    height: 300px;
+    margin-top: 100px;
+}
+.categories img{
+    height: 100px;
+    
+
+}
+.panda-btn-buy-now {
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    background-color: #cf1397;
+}
+.card-image img {
+    width: auto;
+    height: 200px;
+  
+}
